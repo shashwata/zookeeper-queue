@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package org.karma.oss.zookeeper.queue;
+package karma.oss.zookeeper.queue;
 
 import java.util.*;
 import java.util.concurrent.CountDownLatch;
